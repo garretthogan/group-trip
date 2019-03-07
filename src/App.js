@@ -11,6 +11,12 @@ import { withStyles } from '@material-ui/core/styles';
 import AttachMoneyOutlined from '@material-ui/icons/AttachMoney';
 import Expense from './Expense';
 
+/**
+ * To do
+ * figure out a way to handle different types of expenses
+ * hotels, airbnbs, daily badges etc
+ */
+
 const styles = theme => ({
   container: {
     paddingTop: 4,
