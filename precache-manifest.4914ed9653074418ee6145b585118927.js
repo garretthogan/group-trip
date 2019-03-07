@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/group-trip/static/js/runtime~main.5355b3ec.js"
   },
   {
-    "revision": "b97a228f84f24f72aee8",
-    "url": "/group-trip/static/js/main.b97a228f.chunk.js"
+    "revision": "45c5dfdb7f8fd6ea443e",
+    "url": "/group-trip/static/js/main.45c5dfdb.chunk.js"
   },
   {
     "revision": "6bcbd519f119a3c18d18",
     "url": "/group-trip/static/js/2.6bcbd519.chunk.js"
   },
   {
-    "revision": "b97a228f84f24f72aee8",
+    "revision": "45c5dfdb7f8fd6ea443e",
     "url": "/group-trip/static/css/main.23a2256f.chunk.css"
   },
   {
-    "revision": "00e203e64756dedabdef1355660fa557",
+    "revision": "aa608166bbe6c8b3e7a4475cfc15190b",
     "url": "/group-trip/index.html"
   }
 ];
